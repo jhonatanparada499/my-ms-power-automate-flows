@@ -18,6 +18,12 @@ The second task is to format the document, or make it look nice. In this case, j
 
 The third task--which was the reason I created this flow--is making images snap perfectly in each page. Since I use Microsoft word in the web, I used to find myself limited when manipulating images and arranging them. I did not like to see huge gaps between pages. For example, I like a document that shows 2 images per page and that are evenly distributed. And if you use the default template of this repo, you will get that layout too.
 
+The fourth and last task is to save the document to a custom folder in OneDrive.
+
+### Preconditions
+
+In order to make this flow right out of the box, you would need to have the following folders in your root directory of OneDrive: `Templates/ Courses/ Attachments/ Metadata/`
+
 ```
 My files (root)
 ├── Templates
@@ -34,3 +40,5 @@ My files (root)
 └── Metadata
     └── Classes_Info.xlsx
 ```
+
+
