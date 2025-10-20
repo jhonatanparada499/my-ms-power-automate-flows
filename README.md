@@ -33,9 +33,9 @@ My files (root)
 
 ![Alt text](<imgs/Screenshot from 2025-10-20 14-52-07.png>)
 
-#### Step 2: Select folder and Run Cover Page Populator
+#### Step 2: Select a folder and Run Cover Page Populator
 
-![Alt text](<imgs/Screenshot from 2025-10-20 14-52-07.png>)
+![Alt text](<imgs/Screenshot from 2025-10-20 16-56-52.png>)
 
 #### Step 3: Enter Title and Descriptions
 
