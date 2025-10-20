@@ -43,8 +43,6 @@ My files (root)
 
 #### Step 4: Check the Generated File Report
 
-![Alt text](<imgs/Screenshot from 2025-10-20 14-52-07.png>)
-
 ![Alt text](<imgs/Screenshot from 2025-10-20 19-23-42.png>)
 
 ![Alt text](<imgs/Screenshot from 2025-10-20 19-23-53.png>)
