@@ -10,7 +10,7 @@ This repository has the packages of my cloud flows exported as zip files from Mi
 
 ## Cover Page Populator
 
-This flow autoimgs/mates the creation of lab reports with images.  
+This flow automates the creation of lab reports with images.  
 
 ### Quick Start
 
@@ -30,5 +30,23 @@ My files (root)
 
 
 #### Step 1: Upload your images to the Attachments folder
+
+![Alt text](<imgs/Screenshot from 2025-10-20 14-52-07.png>)
+
+#### Step 2: Select folder and Run Cover Page Populator
+
+![Alt text](<imgs/Screenshot from 2025-10-20 14-52-07.png>)
+
+#### Step 3: Enter Title and Descriptions
+
+![Alt text](<imgs/Screenshot from 2025-10-20 16-57-56.png>)
+
+#### Step 4: Check the Generated File Report
+
+![Alt text](<imgs/Screenshot from 2025-10-20 14-52-07.png>)
+
+![Alt text](<imgs/Screenshot from 2025-10-20 19-23-42.png>)
+
+![Alt text](<imgs/Screenshot from 2025-10-20 19-23-53.png>)
 
 ![Alt text](<imgs/Screenshot from 2025-10-20 14-52-07.png>)
